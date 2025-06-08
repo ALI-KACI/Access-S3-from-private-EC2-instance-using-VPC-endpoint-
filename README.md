@@ -36,3 +36,4 @@ Access to the S3 backet from Private instance in VPC through Gateway endpoint wi
        aws s3 ls
     
 
+> *Lab originally from: [Whizlabs - Access S3 from Private EC2 using VPC Endpoint](https://www.whizlabs.com/learn/course/aws-solutions-architect-associate/153/lab)*
