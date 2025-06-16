@@ -1,6 +1,11 @@
 # Access-S3-from-private-EC2-instance-using-VPC-endpoint-
 ## Purpose of the Hands on
 Access to the S3 backet from Private instance in VPC through Gateway endpoint without using external network.
+## Architecture
+
+![S3-privateEC2](https://github.com/user-attachments/assets/25aa1e3a-08bb-4e87-b80e-343824af130f)
+
+
 
 ### Methods
 
